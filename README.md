@@ -1,6 +1,6 @@
 # Ticketing-System
 ## Overview
-This project implements a ticket booking system for a theme park with a capacity of 40 persons. The system allows both local and international visitors to book tickets, manage their information, and perform various operations such as adding, searching, and deleting visitor records.
+This C project implements a ticket booking system for a theme park with a capacity of 40 persons. The system allows both local and international visitors to book tickets, manage their information, and perform various operations such as adding, searching, and deleting visitor records.
 
 ## Features
 1. **Add Visitor Information**
